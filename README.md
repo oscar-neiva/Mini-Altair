@@ -14,6 +14,8 @@ Gallery
 -------
 ![screenshot 1](https://github.com/oscar-neiva/Genius/blob/master/images/picture.jpg)
 
+![screenshot 2](https://github.com/oscar-neiva/Mini-Altair/blob/master/images/picture2.png)
+
 
 Credits
 -------
